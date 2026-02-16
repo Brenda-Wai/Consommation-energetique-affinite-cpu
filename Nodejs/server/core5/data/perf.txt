@@ -1,0 +1,84 @@
+
+ Performance counter stats for process id '3233':
+
+         32,918.24 msec task-clock                       #    0.557 CPUs utilized             
+             1,396      context-switches                 #   42.408 /sec                      
+                12      cpu-migrations                   #    0.365 /sec                      
+             6,903      page-faults                      #  209.701 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      59.053791190 seconds time elapsed
+
+
+ Performance counter stats for process id '3247':
+
+         33,009.99 msec task-clock                       #    0.559 CPUs utilized             
+             1,418      context-switches                 #   42.957 /sec                      
+                10      cpu-migrations                   #    0.303 /sec                      
+             8,045      page-faults                      #  243.714 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      59.060996978 seconds time elapsed
+
+
+ Performance counter stats for process id '3262':
+
+         32,947.35 msec task-clock                       #    0.558 CPUs utilized             
+             1,379      context-switches                 #   41.855 /sec                      
+                 7      cpu-migrations                   #    0.212 /sec                      
+             7,972      page-faults                      #  241.962 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      59.048721246 seconds time elapsed
+
+
+ Performance counter stats for process id '3207':
+
+         32,913.21 msec task-clock                       #    0.557 CPUs utilized             
+             1,367      context-switches                 #   41.533 /sec                      
+                 7      cpu-migrations                   #    0.213 /sec                      
+             7,930      page-faults                      #  240.937 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      59.059003133 seconds time elapsed
+
+
+ Performance counter stats for process id '3224':
+
+         32,952.05 msec task-clock                       #    0.549 CPUs utilized             
+             8,961      context-switches                 #  271.941 /sec                      
+                15      cpu-migrations                   #    0.455 /sec                      
+            10,316      page-faults                      #  313.061 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      60.051924967 seconds time elapsed
+
+
+ Performance counter stats for process id '3243':
+
+         33,020.82 msec task-clock                       #    0.559 CPUs utilized             
+             1,390      context-switches                 #   42.095 /sec                      
+                10      cpu-migrations                   #    0.303 /sec                      
+             6,753      page-faults                      #  204.507 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      59.054750602 seconds time elapsed
+
