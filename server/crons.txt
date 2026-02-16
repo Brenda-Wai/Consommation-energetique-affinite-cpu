@@ -1,0 +1,15 @@
+40 14 * * * reboot
+45 14 * * * /users/Brenda/nginx/core1/script.sh
+49 14 * * * mv /users/Brenda/cpu_freq_log.csv /users/Brenda/nginx/core1/data/
+25 17 * * * reboot
+35 17 * * * /users/Brenda/nginx/core5/script.sh
+39 17 * * * mv /users/Brenda/cpu_freq_log.csv /users/Brenda/nginx/core5/data/
+0 15 * * * reboot
+5 15 * * * /users/Brenda/nginx/core10/script.sh
+9 15 * * * mv /users/Brenda/cpu_freq_log.csv /users/Brenda/nginx/core10/data/
+25 2 * * * reboot
+35 2 * * * /users/Brenda/nginx/coreall/script.sh
+39 2 * * * mv /users/Brenda/cpu_freq_log.csv /users/Brenda/nginx/coreall/data/
+20 15 * * * reboot
+25 15 * * * /users/Brenda/nginx/coreswitch/script.sh
+29 15 * * * mv /users/Brenda/cpu_freq_log.csv /users/Brenda/nginx/coreswitch/data/
