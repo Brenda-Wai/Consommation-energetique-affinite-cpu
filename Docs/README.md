@@ -1,2 +1,14 @@
-# Consommation énergétique et affinité CPU
-Ce projet étudie l'influence des configurations d'affinité CPU sur les performances et la consommation énergétique des applications web exécutées dans des serveurs Linux. 
+# \# Documentation
+
+# 
+
+# This directory contains methodological documents, protocols, and figures related to the experiments.
+
+# 
+
+# \- methodology.pdf: detailed experimental methodology
+
+# \- experiment\_protocol.md: step-by-step protocol
+
+# \- figures/: diagrams and illustrations
+
