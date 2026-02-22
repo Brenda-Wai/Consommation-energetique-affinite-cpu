@@ -1,0 +1,10 @@
+40 14 * * * reboot
+45 14 * * * /users/Brenda/core1/script.sh
+50 14 * * * reboot
+35 17 * * * /users/Brenda/core5/script.sh
+0 15 * * * reboot
+5 15 * * * /users/Brenda/core10/script.sh
+10 15 * * * reboot
+35 2 * * * /users/Brenda/coreall/script.sh
+20 15 * * * reboot
+25 15 * * * /users/Brenda/coreswitch/script.sh
