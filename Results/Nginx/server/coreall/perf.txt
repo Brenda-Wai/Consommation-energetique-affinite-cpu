@@ -1,0 +1,28 @@
+
+ Performance counter stats for process id '1725':
+
+              0.85 msec task-clock                       #    0.000 CPUs utilized             
+                 1      context-switches                 #    1.174 K/sec                     
+                 1      cpu-migrations                   #    1.174 K/sec                     
+               104      page-faults                      #  122.147 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+     120.087276797 seconds time elapsed
+
+
+ Performance counter stats for process id '1726':
+
+          4,965.90 msec task-clock                       #    0.041 CPUs utilized             
+            54,000      context-switches                 #   10.874 K/sec                     
+               100      cpu-migrations                   #   20.137 /sec                      
+               139      page-faults                      #   27.991 /sec                      
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+     120.099594207 seconds time elapsed
+
