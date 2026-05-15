@@ -1,4 +1,4 @@
-# CPU Affinity & Energy Optimization for Web Servers
+# Consommation énergétique & Affinité CPU
 
 Recherche sur l'impact de l'affinité CPU sur la consommation énergétique
 des serveurs web (Nginx & Node.js) sous Linux.
@@ -10,4 +10,4 @@ des serveurs web (Nginx & Node.js) sous Linux.
 - `docs/`        : mémoire complet
 
 ## Outils utilisés
-taskset, wrk, perf, PowerTOP/RAPL
+taskset, perf stat, Powerstat/RAPL
