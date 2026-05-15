@@ -1,2 +1,13 @@
-# Consommation énergétique et affinité CPU
-Ce projet étudie l'influence des configurations d'affinité CPU sur les performances et la consommation énergétique des applications web exécutées dans des serveurs Linux. 
+# CPU Affinity & Energy Optimization for Web Servers
+
+Recherche sur l'impact de l'affinité CPU sur la consommation énergétique
+des serveurs web (Nginx & Node.js) sous Linux.
+
+## Structure
+- `experiments/` : scripts de benchmark et configuration
+- `results/`     : données brutes des mesures
+- `analysis/`    : notebooks Python et graphiques
+- `docs/`        : mémoire complet
+
+## Outils utilisés
+taskset, wrk, perf, PowerTOP/RAPL
